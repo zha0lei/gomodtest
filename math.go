@@ -1,4 +1,4 @@
-package math
+package gomodtest
 
 
 func Add(n1 int,n2 int)int {
